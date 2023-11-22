@@ -20,14 +20,19 @@ Trabajo en equipo de Jose Luis y Agustin
 Una vez clonado el repositorio, `user1` añade los archivos y hace el commit y push.
 
 ## PASO 4
+paso 4 joseluis
 
 ## PASO 5
+paso 5 joseluis
 
 ## PASO 6
+no hacer
 
 ## PASO 7
+paso 7 joseluis
 
 ## PASO 8
+paso  joseluis
 
 ## PASO 9
 
@@ -38,12 +43,29 @@ Una vez clonado el repositorio, `user1` añade los archivos y hace el commit y p
 ## PASO 12
 
 ## PASO 13
+paso 13 joseluis
 
 ## PASO 14
+no hacer
 
 ## PASO 15
 
 ## PASO 16
 
 ## PASO 17
+paso 17 joseluis
+
+## PASO 18
+paso  joseluis
+
+## PASO 19
+
+## PASO 20
+
+## PASO 21
+
+## PASO 22
+
+## PASO 23
+
 
