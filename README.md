@@ -56,7 +56,7 @@ no hacer
 paso 17 joseluis
 
 ## PASO 18
-paso  joseluis
+paso 18 joseluis
 
 ## PASO 19
 
@@ -67,5 +67,3 @@ paso  joseluis
 ## PASO 22
 
 ## PASO 23
-
-
