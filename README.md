@@ -32,7 +32,7 @@ no hacer
 paso 7 joseluis
 
 ## PASO 8
-paso  joseluis
+paso 8 joseluis
 
 ## PASO 9
 
@@ -46,26 +46,7 @@ paso  joseluis
 paso 13 joseluis
 
 ## PASO 14
-no hacer
+paso 14 joseluis
 
 ## PASO 15
-
-## PASO 16
-
-## PASO 17
-paso 17 joseluis
-
-## PASO 18
-paso 18 joseluis
-
-## PASO 19
-
-## PASO 20
-
-## PASO 21
-
-## PASO 22
-
-## PASO 23
-
-hola
+paso 15 joseluis
