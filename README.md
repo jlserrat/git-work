@@ -20,19 +20,30 @@ Trabajo en equipo de Jose Luis y Agustin
 Una vez clonado el repositorio, `user1` añade los archivos y hace el commit y push.
 
 ## PASO 4
-paso 4 joseluis
+Como `user2` creo un fork del repositorio git-work de `user1`
+<img title="titulo" alt="paso4" src="./img/paso4.png" width="700">
+Visualizo y verifico que el fork es correcto y que proviene de `user1`
+<img title="titulo" alt="paso4-1" src="./img/paso4-1.png" width="700">
 
 ## PASO 5
-paso 5 joseluis
+`user2` copia el SSH para realizar el el clon en local
+<img title="titulo" alt="paso5" src="./img/paso5.png" width="700">
+`user2` ejecuta el comando
+<img title="titulo" alt="paso5-1" src="./img/paso5-1.png" width="700">
 
 ## PASO 6
 no hacer
 
 ## PASO 7
-paso 7 joseluis
+<img title="titulo" alt="paso7" src="./img/paso7.png" width="700">
+<img title="titulo" alt="paso7-1" src="./img/paso7-1.png" width="700">
+<img title="titulo" alt="paso7-2" src="./img/paso7-2.png" width="700">
+<img title="titulo" alt="paso7-3" src="./img/paso7-3.png" width="700">
 
 ## PASO 8
-paso 8 joseluis
+<img title="titulo" alt="paso8" src="./img/paso8.png" width="700">
+<img title="titulo" alt="paso8-1" src="./img/paso8-1.png" width="700">
+<img title="titulo" alt="paso8-2" src="./img/paso8-2.png" width="700">
 
 ## PASO 9
 
