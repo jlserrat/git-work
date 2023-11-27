@@ -35,14 +35,21 @@ Visualizo y verifico que el fork es correcto y que proviene de `user1`
 no hacer
 
 ## PASO 7
+`user2` crea una nueva rama llamada custom-text
 <img title="titulo" alt="paso7" src="./img/paso7.png" width="700">
+Modificación del index
 <img title="titulo" alt="paso7-1" src="./img/paso7-1.png" width="700">
+`user2` Comenta los cambios y prepara el push
 <img title="titulo" alt="paso7-2" src="./img/paso7-2.png" width="700">
+`user2` publica la rama
 <img title="titulo" alt="paso7-3" src="./img/paso7-3.png" width="700">
 
 ## PASO 8
+`user2` Envia pull request a `user1`
 <img title="titulo" alt="paso8" src="./img/paso8.png" width="700">
+`user2` Visualiza los cambios que ha hecho
 <img title="titulo" alt="paso8-1" src="./img/paso8-1.png" width="700">
+`user2` verifica  que esta marcado Allow edits from maintainers e inicia una conversación
 <img title="titulo" alt="paso8-2" src="./img/paso8-2.png" width="700">
 
 ## PASO 9
